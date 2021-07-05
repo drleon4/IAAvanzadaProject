@@ -1,4 +1,4 @@
-# IAAvanzadaProject
+# DETECCIÓN DEL DISTANCIAMIENTO SOCIAL
 Proyecto sobre ML aplicado al problema del COVID-19, haciendo usos de las librerías de YOLO-COCO
 
 **Pasos para hacer funcionar el proyecto:**
